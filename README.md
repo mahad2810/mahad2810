@@ -30,4 +30,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahad2810&show_icons=true&locale=en" alt="mahad2810" /></p>
 
--->
