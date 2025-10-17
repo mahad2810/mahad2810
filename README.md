@@ -1,32 +1,106 @@
-<h1 align="center">Hi 👋, I'm Mahad Iqbal</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | B.Tech in CSE (AI & ML) | Passionate About Data Science, NLP, and Real-World ML Applications</h3>
+# Hi there, I'm Mahad Iqbal 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahad2810&label=Profile%20views&color=0e75b6&style=flat" alt="mahad2810" /> </p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Generative+AI+Developer;Full-Stack+Engineer;Hackathon+Champion;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahad2810" alt="mahad2810" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [AuraMed-Revolutionizing Hospital Operations & Patient Care](https://auramed-app-156513904358.us-central1.run.app)
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Large Language Models (LLMs), Deep Learning, Generative AI**
+I'm a **Generative AI Developer** and **Full-Stack Engineer** passionate about building production-ready AI applications that solve real-world problems. Currently pursuing B.Tech in CSE-AIML at Heritage Institute of Technology, Kolkata.
 
-- 🤝 I’m looking for help with [Integrating IOT sensors with my project->AuraMed:-Revolutionizing Hospital Operations & Patient Care](https://auramed-app-156513904358.us-central1.run.app)
+- 🔭 Previously interned at **AI Wallah** and **Pinnacle Labs**
+- 🏆 Multiple **First Place** hackathon wins including IEM Smart Make-A-Thon & Hack Heritage 3.0
+- 🥈 **2nd Place** at IdeateX 2025 by Google Developer Groups
+- 🌱 Specializing in **LLMs**, **RAG systems**, and **AI-powered healthcare solutions**
+- 💡 Led teams to build full-stack MVPs with React, Next.js, Flask, and ML models
+- 📫 Reach me at: **mahadiqbal70@gmail.com**
 
-- 👨‍💻 All of my Works are available at [https://github.com/mahad2810/](https://github.com/mahad2810/)
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **mahadiqbal70@gmail.com**
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mahadiqbal16/](https://www.linkedin.com/in/mahad1604/)
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahad1604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahadiqbal16" height="30" width="40" /></a>
-</p>
+### Backend & Databases
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Tools & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahad2810&show_icons=true&locale=en&layout=compact" alt="mahad2810" /></p>
+## 📊 GitHub Stats
 
+<div align="center">
+  
+![Mahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahad2810&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahad2810&show_icons=true&locale=en" alt="mahad2810" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahad2810&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahad2810&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🏆 Featured Projects
+
+### 🏥 [AuraMed](https://github.com/mahad2810) - Smart Healthcare Platform
+AI-powered healthcare platform with SOS alerts, symptom prediction, and real-time resource tracking. Built with React, Flask, Firebase, and ML models (SVM, XGBoost). Deployed on GCP with Docker.
+- 🥈 2nd Place at IdeateX 2025 (GDG)
+- 🥉 3rd Place at Hack-O-NIT
+- 🎯 Finalist at IIT BHU Serve-Smart Hackathon
+
+### 🛡️ Setuka - Digital Guardian
+AI+IoT ecosystem for traveler safety with real-time telemetry, risk prediction, and blockchain-based digital ID.
+- 🥇 1st Place at IEM Smart Make-A-Thon
+- 🥇 1st Place at Hack Heritage 3.0
+
+### 🤖 MaverickBot
+Next.js AI chatbot with PDF parsing, context-aware chat, and Gemini 2.0 Flash integration.
+
+### 🌍 MaveriqAir
+Real-time environmental dashboard with AQI insights, weather animations, and AI chatbot.
+
+### 📚 ApexRAG
+Scalable RAG pipeline for document ingestion, vectorization, and LLM-driven answers via REST API.
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahad2810&theme=tokyo-night&hide_border=true)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahad1604)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahad2810)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadiqbal70@gmail.com)
+
+---
+
+<div align="center">
+  
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=mahad2810&color=blue&style=flat-square)
+
+</div>
+
+---
+
+⭐️ From [mahad2810](https://github.com/mahad2810)
