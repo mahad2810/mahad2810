@@ -53,7 +53,6 @@ I'm a **Generative AI Developer** and **Full-Stack Engineer** passionate about b
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahad2810&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahad2810&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -89,17 +88,6 @@ Scalable RAG pipeline for document ingestion, vectorization, and LLM-driven answ
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahad2810)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahadiqbal70@gmail.com)
 
----
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=mahad2810&color=blue&style=flat-square)
-
-</div>
 
 ---
 
